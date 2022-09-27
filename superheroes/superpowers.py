@@ -3,8 +3,8 @@
 import classinfo
 
 # parts 1 and 2
-name= classinfo["all"][2]["name"]
-power= classinfo["all"][2]["super power"]
+name= classinfo["all"][2]["carl"]
+power= classinfo["all"][2]["transformation"]
 
 print(name, "has the power of", power)
 
